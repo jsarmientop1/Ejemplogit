@@ -12,3 +12,4 @@ elif imc >= 30:
     print("Obesidad")
 else:
     print("Datos no válidos")
+      
