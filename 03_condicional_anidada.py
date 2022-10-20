@@ -21,4 +21,4 @@ else:
             if edad >= 60 and edad <= 115:
                 print("Etapa adulto mayor")
             else:
-                print("Edad no válida") 
+                print("Edad no válida")  
